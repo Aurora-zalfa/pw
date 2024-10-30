@@ -1,0 +1,59 @@
+h1 {
+   color: chocolate;
+   text-align: center; 
+}
+
+#header {
+    background-color: burlywood;
+    height: 125px;
+    padding: 10px; 
+}
+
+.desk {
+    text-align: center;
+}
+
+.menu {
+    text-align: center;
+}
+
+.menu li {
+    display: inline;
+    margin: 200px;
+}
+
+.koleksi img {
+    width: 23%;
+    background-color: bisque;
+}
+
+.menu a:hover {
+    font-weight: bold;
+    color: red ;
+}
+
+.isi::first-letter {
+    color: blue;
+    font-size: 40px;}
+
+body {
+    background-color: beige;
+}
+.promo {
+    text-align: center;
+}
+.ecommerce li {
+    display: inline;
+    margin: 200px;
+}
+.container {
+    text-align: center;
+}
+.bird {
+    height: 20%;
+    width: 20%;
+}
+.burung {
+    height: 20%;
+    width: 21%;
+}
